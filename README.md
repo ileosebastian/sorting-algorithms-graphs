@@ -1,6 +1,7 @@
-# sorting_algorithms_ADA
+# Sorting Algorithms
+The program developed with Tkinter aims visualize the behavior of merge sort and insertion sort in a graphs.
 
-Vayan a GUI.py y ejecuten ese codigo en python
 
-Requerimientos:
-Deben tener python 3.x
+![alt text](photos/menu.png)
+
+![alt text](photos/graphs.png)
